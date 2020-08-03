@@ -1,0 +1,16 @@
+{
+        "/": "api docs",
+        "/signup": "signup",
+        "/signin": "signin",
+        "/signout": "signout",
+        "/users": "get all users",
+        "/user/:userId": "get/update/delete user",
+        "/posts": "get all posts",
+        "/post/new/:userId": "create new post",
+        "/posts/by/:userId": "get posts by user",
+        "/post/:postId": "update/delete post",
+        "about" : "This is an api where an user  can signin/signup/ as an registered-user  and where an individual user can create/update/delete a post and also the routes are being protected so that a user must be sign in order to make any changes",
+        " Routes doesn't require signin " : " /users and /posts routes doest require signin"
+
+}
+
